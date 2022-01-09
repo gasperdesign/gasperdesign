@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Alex, UI/UX Designer with a passion for coding
-- 👀 I’m interested in Front-End
-- 🌱 I’m currently learning Html/Css/Javascript and last but not least Swift
-- 💞️ I’m looking to collaborate on UI
+- 👋 Hi, I’m Alex, also known as Gasper (that's my superhero name🦸). I am an UI/UX Designer with a passion for coding, bringing the design to reality.🔥
+- 👀 I’m interested in 3D Design, AR/VR and of course with a big passion for games.
+- 🌱 I’m currently learning Html/Css/Javascript and last but not least Swift, 
+- 💞️ I’m looking to collaborate on UI/UX projects
 - 📫 How to reach me @gasperdesign
 
 <!---
