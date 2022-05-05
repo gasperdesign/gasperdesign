@@ -12,3 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alexandru-stefan-302b5476/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasperdesign&show_icons=true&theme=radical)
