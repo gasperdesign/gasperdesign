@@ -26,3 +26,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasperdesign&show_icons=true&theme=radical)
+
+<a href="https://myoctocat.dev/@sw-yx/octocat">
+  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
+</a>
+
+- See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
+- 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
+- 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io)!
+- 📫 How to reach me: `swyx at hey dot com`
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
