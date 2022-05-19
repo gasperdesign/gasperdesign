@@ -14,9 +14,6 @@
 </a>
 <br />
 <br />
-<a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
-</a>
 
 - 👯 I’m Alex, also known as Gasper (that's my superhero name🦸). I am an UI/UX Designer with a passion for coding, bringing the design to reality.🔥
 - 👀 I’m interested in 3D Design, AR/VR and of course with a big passion for games.
