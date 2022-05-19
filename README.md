@@ -1,5 +1,5 @@
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 <a href="https://www.instagram.com/gasperdesign/">
   <img align="left" alt="GasperDesign's Instragram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -22,18 +22,4 @@
 gasperdesign/gasperdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://www.instagram.com/gasperdesign/">
-  <img align="left" alt="GasperDesign's Instragram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="GasperDesign's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/Gasperdeesign/">
-  <img align="left" alt="GasperDesign| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alexandru-stefan-302b5476//">
-  <img align="left" alt="Alexandru Stefan" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasperdesign&show_icons=true&theme=radical)
