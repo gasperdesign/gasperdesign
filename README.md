@@ -22,4 +22,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/alexandru-stefan-302b5476//">
   <img align="left" alt="Alexandru Stefan" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gasperdesign&show_icons=true&theme=radical)
