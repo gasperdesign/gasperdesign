@@ -5,19 +5,6 @@
 - 🌱 I’m currently learning React and also ready to taste the power of Swift ( Apple products made me do it) 
 - 💞️ I’m looking to collaborate on UI/UX projects
 - 📫 You can reach me at @gasperdesign
-<a href="https://www.instagram.com/gasperdesign/">
-  <img align="left" alt="GasperDesign's Instragram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="GasperDesign's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/Gasperdeesign/">
-  <img align="left" alt="GasperDesign| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/alexandru-stefan-302b5476//">
-  <img align="left" alt="Alexandru Stefan" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-
 
 <!---
 gasperdesign/gasperdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
