@@ -12,6 +12,7 @@
 <a href="https://www.linkedin.com/in/alexandru-stefan-302b5476//">
   <img align="left" alt="Alexandru Stefan" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<br />
 -  I’m Alex, also known as Gasper (that's my superhero name🦸). I am an UI/UX Designer with a passion for coding, bringing the design to reality.🔥
 - 👀 I’m interested in 3D Design, AR/VR and of course with a big passion for games.
 - 🌱 I’m currently learning React and also ready to taste the power of Swift ( Apple products made me do it) 
