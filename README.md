@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="GasperDesign's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/gaasperdesign/">
+<a href="https://twitter.com/Gasperdeesign/">
   <img align="left" alt="GasperDesign| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/alexandru-stefan-302b5476//">
