@@ -18,19 +18,12 @@
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 </a>
 
-- See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
-- 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
-- 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io)!
-- 📫 How to reach me: `swyx at hey dot com`
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
-- 
--  I’m Alex, also known as Gasper (that's my superhero name🦸). I am an UI/UX Designer with a passion for coding, bringing the design to reality.🔥
+- 👯 I’m Alex, also known as Gasper (that's my superhero name🦸). I am an UI/UX Designer with a passion for coding, bringing the design to reality.🔥
 - 👀 I’m interested in 3D Design, AR/VR and of course with a big passion for games.
-- 🌱 I’m currently learning React and also ready to taste the power of Swift ( Apple products made me do it) 
-- 💞️ I’m looking to collaborate on UI/UX projects
-- 📫 You can reach me at @gasperdesign
-
+- 🌱 I’m currently learning React and also ready to taste the power of Swift ( Apple products made me do it) `
+- 😄 I’m looking to collaborate on UI/UX projects
+- ⚡ You can reach me at @gasperdesign
+- 
 <!---
 gasperdesign/gasperdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
