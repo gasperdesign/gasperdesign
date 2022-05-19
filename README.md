@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/alexandru-stefan-302b5476/">
   <img align="left" alt="GasperDesign| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/alexandru-stefan-302b5476//">
   <img align="left" alt="Alexandru Stefan" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
